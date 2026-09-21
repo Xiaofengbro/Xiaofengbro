@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋 I'm XiaofengBro ✨
+<h1 align="center">Hello!👋 I'm XiaofengBro ✨</h1>
 
 <p align="center">
   <b>Ph.D. Student </a></b><br/>
@@ -15,7 +15,7 @@
 - ☕ Powered by tea and questionable decisions.
 - 🧠 I'm currently learning Linux, R, Python, and trying not to lose my sanity to English.
 - 💥 I'm passionate about archery and spend my free time trying to save the world in Battlefield V.
-- 👀
+- 👀 
 
 ---
 <p>
