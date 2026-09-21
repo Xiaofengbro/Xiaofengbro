@@ -19,7 +19,7 @@
 
 ---
 <p>
-🤡 Still fighting the damn English language.
+🤡 Still fighting the damn English language.<br/>
 🍻 Good science, good games, good drinks.
 </p>
 
