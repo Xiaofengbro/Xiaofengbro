@@ -18,8 +18,12 @@
 - 👀
 
 ---
+<p>
 🤡 Still fighting the damn English language.
 🍻 Good science, good games, good drinks.
+</p>
+
+---
 <!--
 **Xiaofengbro/Xiaofengbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
