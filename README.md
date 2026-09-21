@@ -10,7 +10,7 @@
 ---
 
 ### 📝 A Few Quick Facts
-- 🚀 I'm currently pursuing my postgraduate studies at @ <a href="https://gjs.swu.edu.cn/"> CRIC.
+- 🚀 I'm currently pursuing my postgraduate studies at <a href="https://gjs.swu.edu.cn/"> CRIC.
 - 🐛 Fighting bugs — biological and computational.
 - ☕ Powered by tea and questionable decisions.
 - 🧠 I'm currently learning Linux, R, Python, and trying not to lose my sanity to English.
