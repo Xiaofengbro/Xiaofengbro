@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Ph.D. Student </a></b><br/>
-  🧬Genetics · 🌱Genomics · 💻Bioinformatician · 🔬Population · 🧪Molecular
+  🧬Genetics · 🌱Genomics · 🔬Population · 🧪Molecular
 </p>
 
 ---
