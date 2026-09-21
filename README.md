@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋 I'm XiaofengBro ✨</h1>
 
 <p align="center">
-  <b>Ph.D. Student </a></b><br/>
+  <b>Ph.D. Student [maybe Research Slave🤡!?]</a></b><br/>
   🧬Genetics · 🌱Genomics · 🔬Population · 🧪Molecular
 </p>
 
@@ -19,7 +19,7 @@
 
 ---
 <p>
-🤡 Still fighting the damn English language.<br/>
+💀 Still fighting the damn English language.<br/>
 🍻 Good science, good games, good drinks.
 </p>
 
